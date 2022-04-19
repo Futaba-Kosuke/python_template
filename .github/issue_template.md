@@ -1,12 +1,3 @@
----
-name: Issue
-about: ''
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ### 概要
 [comment]: <> (簡単な概要を書く)
 概要
