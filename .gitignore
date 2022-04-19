@@ -6,7 +6,6 @@
 __pycache__/
 
 # linter/formatter
-.tox/
 .mypy_cache/
 
 # editor
